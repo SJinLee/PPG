@@ -8,4 +8,4 @@
 * [인공신경망 분석](papers/광용적맥파(PPG)의%20심층신경망(DNN)%20분석을%20통한%20원격의료%20데이터의%20신뢰성%20평가.pdf)
 
 ### public data
-* [ppg_datasets](https://peterhcharlton.github.io/post/ppg_datasets/)
+* [ppg_datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 

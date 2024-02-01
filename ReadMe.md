@@ -13,6 +13,7 @@
 * [감정 인식을 위한 PPG 데이터의 심박변이도 및 PSD 분석](papers/감정%20인식을%20위한%20PPG%20데이터의%20심박변이도%20및%20PSD%20분석.pdf)
 * [접촉 압력에 무관한 PPG 신호 추출 모델](papers/접촉%20압력에%20무관한%20PPG%20신호%20추출%20모델.pdf)
 * [해군 20대 부사관의 수면시간, 스트레스 수준과 맥파 기반 심박변이도 관계](papers/해군%2020대%20부사관의%20수면시간,%20스트레스%20수준과%20맥파%20기반%20심박변이도%20관계.pdf)
+* [Periodic Time Series Data Analysis by Deep Learning Methodology](https://www.researchgate.net/publication/347291628_Periodic_Time_Series_Data_Analysis_by_Deep_Learning_Methodology/fulltext/5fe0a6b745851553a0dc74f0/Periodic-Time-Series-Data-Analysis-by-Deep-Learning-Methodology.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 
 ### public data
 * [ppg datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 

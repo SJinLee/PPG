@@ -17,6 +17,7 @@
 * [A Deep Learning–based PPG Quality Assessment Approach for Heart Rate and Heart Rate Variability](papers/3616019)
 * [Extraction of Heart Rate from PPG Signal: A Machine Learning Approach using Decision Tree Regression Algorithm](papers/10.1109@EICT48899.2019.9068845.pdf)
 * [Heart rate estimation from wrist-PPG signals in activity by deep learning methods](https://kth.diva-portal.org/smash/get/diva2:1801202/FULLTEXT01.pdf)
+* [DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/36086420/)
 * [https://github.com/Oichii/DeepPulse-pytorch](https://github.com/Oichii/DeepPulse-pytorch/tree/master)
 
 ### public data

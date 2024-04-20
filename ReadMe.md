@@ -16,6 +16,8 @@
 * [Periodic Time Series Data Analysis by Deep Learning Methodology](https://www.researchgate.net/publication/347291628_Periodic_Time_Series_Data_Analysis_by_Deep_Learning_Methodology/fulltext/5fe0a6b745851553a0dc74f0/Periodic-Time-Series-Data-Analysis-by-Deep-Learning-Methodology.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
 * [A Deep Learning–based PPG Quality Assessment Approach for Heart Rate and Heart Rate Variability](papers/3616019)
 * [Extraction of Heart Rate from PPG Signal: A Machine Learning Approach using Decision Tree Regression Algorithm](papers/10.1109@EICT48899.2019.9068845.pdf)
+* [Heart rate estimation from wrist-PPG signals in activity by deep learning methods](https://kth.diva-portal.org/smash/get/diva2:1801202/FULLTEXT01.pdf)
+* [https://github.com/Oichii/DeepPulse-pytorch](https://github.com/Oichii/DeepPulse-pytorch/tree/master)
 
 ### public data
 * [ppg datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 

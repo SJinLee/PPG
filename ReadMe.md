@@ -14,6 +14,8 @@
 * [접촉 압력에 무관한 PPG 신호 추출 모델](papers/접촉%20압력에%20무관한%20PPG%20신호%20추출%20모델.pdf)
 * [해군 20대 부사관의 수면시간, 스트레스 수준과 맥파 기반 심박변이도 관계](papers/해군%2020대%20부사관의%20수면시간,%20스트레스%20수준과%20맥파%20기반%20심박변이도%20관계.pdf)
 * [Periodic Time Series Data Analysis by Deep Learning Methodology](https://www.researchgate.net/publication/347291628_Periodic_Time_Series_Data_Analysis_by_Deep_Learning_Methodology/fulltext/5fe0a6b745851553a0dc74f0/Periodic-Time-Series-Data-Analysis-by-Deep-Learning-Methodology.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)
+* [A Deep Learning–based PPG Quality Assessment Approach for Heart Rate and Heart Rate Variability](papers/3616019)
+* [Extraction of Heart Rate from PPG Signal: A Machine Learning Approach using Decision Tree Regression Algorithm](papers/10.1109@EICT48899.2019.9068845.pdf)
 
 ### public data
 * [ppg datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 

@@ -20,6 +20,11 @@
 * [DeepPulse: An Uncertainty-aware Deep Neural Network for Heart Rate Estimations from Wrist-worn Photoplethysmography](https://pubmed.ncbi.nlm.nih.gov/36086420/)
 * [https://github.com/Oichii/DeepPulse-pytorch](https://github.com/Oichii/DeepPulse-pytorch/tree/master)
 
+### welch
+* [https://github.com/Aura-healthcare/hrv-analysis/tree/master](https://github.com/Aura-healthcare/hrv-analysis/tree/master)
+* [Calculate LF HF for ECG using Welchs PSD](https://kr.mathworks.com/support/search.html/answers/1941314-calculate-lf-hf-for-ecg-using-welchs-psd.html?fq%5B%5D=asset_type_name:answer&fq%5B%5D=category:signal/nonparametric-spectral-estimation&page=1)
+* 
+
 ### public data
 * [ppg datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 
 * [kaggle datasets](https://www.kaggle.com/datasets/sirrabbit/ppg-dataset) 

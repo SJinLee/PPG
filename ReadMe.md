@@ -23,7 +23,8 @@
 ### welch
 * [https://github.com/Aura-healthcare/hrv-analysis/tree/master](https://github.com/Aura-healthcare/hrv-analysis/tree/master)
 * [Calculate LF HF for ECG using Welchs PSD](https://kr.mathworks.com/support/search.html/answers/1941314-calculate-lf-hf-for-ecg-using-welchs-psd.html?fq%5B%5D=asset_type_name:answer&fq%5B%5D=category:signal/nonparametric-spectral-estimation&page=1)
-* 
+* [PSD estimation FFT vs Welch](https://kr.mathworks.com/matlabcentral/answers/33653-psd-estimation-fft-vs-welch)
+* [[pwelch](https://kr.mathworks.com/help/signal/ref/pwelch.html)](https://kr.mathworks.com/help/signal/ref/pwelch.html)
 
 ### public data
 * [ppg datasets](https://peterhcharlton.github.io/post/ppg_datasets/) 

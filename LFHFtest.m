@@ -43,8 +43,8 @@ for m = 0:minutes-5
     startLF = 0.04*fs*wminutes*60/fs;
     endLF = 0.15*fs*wminutes*60/fs;
     endHF = 0.4*fs*wminutes*60/fs;
-    LF = sum((Pxx1(startLF:endLF-1)+Pxx1(startLF+1:endLF))/2) / fs;
-    HF = sum((Pxx1(endLF:endHF-1)+Pxx1(endLF+1:endHF))/2) / fs;
+    LF = sum((Pxx1(startLF:endLF-1)+Pxx1(startLF+1:endLF))/2) / (wminutes*60);
+    HF = sum((Pxx1(endLF:endHF-1)+Pxx1(endLF+1:endHF))/2) / (wminutes*60);
     LFseq(m+1) = LF;
     HFseq(m+1) = HF;
     % break
